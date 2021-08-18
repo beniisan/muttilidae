@@ -1,6 +1,8 @@
 	
+
+
 	/***********************************************
-	* Bookmark site script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+	* Bookmark site script- Â© Dynamic Drive DHTML code library (www.dynamicdrive.com)
 	* This notice MUST stay intact for legal use
 	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
 	***********************************************/
